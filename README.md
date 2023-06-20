@@ -1,6 +1,6 @@
 # Memory Cache Simulator
 
-This project simulates various memory caching heirarchies and strategies on a set of large program trace files. A cache configuration  is given in a JSON format, specifying:
+This project simulates various memory caching hierarchies and strategies on a set of large program trace files. A cache configuration  is given in a JSON format, specifying:
 
 - The number of caches in the configuration
 - The name of each cache (L1, L2, L3)
